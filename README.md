@@ -1,0 +1,1 @@
+This repository contains two models for malignant melanoma identification; an SVM and a GAN's discriminator. This used an online Kaggle dataset with sparsely collected images from the International Skin Imaging Collection at https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
